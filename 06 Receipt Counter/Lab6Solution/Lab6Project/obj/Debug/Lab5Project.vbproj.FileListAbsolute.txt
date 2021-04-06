@@ -1,0 +1,24 @@
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab5Project.vbprojAssemblyReference.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab2Project.MainForm.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab2Project.Resources.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab5Project.vbproj.GenerateResource.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab5Project.vbproj.CoreCompileInputs.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\obj\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\bin\Debug\Lab2Project.exe.config
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\bin\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\bin\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab5Solution - Shell\Lab5Project\bin\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\bin\Debug\Lab2Project.exe.config
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\bin\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\bin\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\bin\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab5Project.vbprojAssemblyReference.cache
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab2Project.MainForm.resources
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab2Project.Resources.resources
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab5Project.vbproj.GenerateResource.cache
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab5Project.vbproj.CoreCompileInputs.cache
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\Test\Lab5Solution\Lab5Project\obj\Debug\Lab2Project.pdb

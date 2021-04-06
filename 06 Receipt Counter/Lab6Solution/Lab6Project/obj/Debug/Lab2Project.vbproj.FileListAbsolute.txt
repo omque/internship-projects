@@ -1,0 +1,12 @@
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\bin\Debug\Lab2Project.exe.config
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\bin\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\bin\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\bin\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.vbprojAssemblyReference.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.MainForm.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.Resources.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.vbproj.GenerateResource.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.vbproj.CoreCompileInputs.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab2Solution\Lab2Project\obj\Debug\Lab2Project.pdb

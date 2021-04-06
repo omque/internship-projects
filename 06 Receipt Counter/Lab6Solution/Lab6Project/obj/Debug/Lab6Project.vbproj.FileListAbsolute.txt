@@ -1,0 +1,48 @@
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\bin\Debug\Lab2Project.exe.config
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\bin\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\bin\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\bin\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab6Project.vbprojAssemblyReference.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab2Project.MainForm.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab2Project.Resources.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab6Project.vbproj.GenerateResource.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab6Project.vbproj.CoreCompileInputs.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab5Project\obj\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\bin\Debug\Lab2Project.exe.config
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\bin\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\bin\Debug\Lab2Project.pdb
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\bin\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab6Project.vbprojAssemblyReference.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab2Project.MainForm.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab2Project.Resources.resources
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab6Project.vbproj.GenerateResource.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab6Project.vbproj.CoreCompileInputs.cache
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab2Project.exe
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab2Project.xml
+G:\School_Files\School\CISP370\2020\LabSolution\Lab6Solution-Shell\Lab6Project\obj\Debug\Lab2Project.pdb
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.exe.config
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.exe
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.pdb
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.xml
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbprojAssemblyReference.cache
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.MainForm.resources
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.Resources.resources
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbproj.GenerateResource.cache
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbproj.CoreCompileInputs.cache
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.exe
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.xml
+C:\Users\Omair Qazi\Documents\GitHub\CISP370-Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.pdb
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.exe.config
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.exe
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.pdb
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\bin\Debug\Lab2Project.xml
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbprojAssemblyReference.cache
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.MainForm.resources
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.Resources.resources
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbproj.GenerateResource.cache
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab6Project.vbproj.CoreCompileInputs.cache
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.exe
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.xml
+C:\Users\Omair Qazi\Documents\GitHub Desktop\CISP370-Assignments\Fall 2020 Assignments\Lab Assignments\Week 6\Lab6Solution\Lab6Project\obj\Debug\Lab2Project.pdb
