@@ -2,6 +2,8 @@
 
 **Overview**
 
+Language: C++
+
 Class assignment to collect user grades and calculate GPA. Demonstrates structured programming, object-oriented programming principles, function development, use of heap memory, pointers, unit tests, and basic menu creation. 
 
 **Assignment Specifications**
